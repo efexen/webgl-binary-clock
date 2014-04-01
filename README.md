@@ -5,4 +5,4 @@ Old project I found whilst backing up old stuff, dates originally from sometime 
 
 Very simply a binary clock to display 24h clock using different coloured pillars.
 
-Enjoy ;)
+View it in [jsFiddle](http://jsfiddle.net/MQ99G/show)
